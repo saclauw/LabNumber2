@@ -1,0 +1,4 @@
+
+public class LabNumber2 {
+
+}
